@@ -3,7 +3,7 @@ Contributors: markhowellsmead
 Donate link: https://www.paypal.me/mhmli
 Tags: separator, menu, navigation, wp_nav_menu, sayhellogmbh
 Requires at least: 5.0
-Tested up to: 6.6.1
+Tested up to: 6.9.0
 Requires PHP: 5.6
 Stable tag: trunk
 License: GPLv3
